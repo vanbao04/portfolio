@@ -1,15 +1,19 @@
+# Personal CV Website – Hán Văn Bảo
 
-# Portfolio cá nhân - Thực tập sinh IT
+Website CV cá nhân được xây dựng bằng HTML & CSS, triển khai bằng GitHub Pages.
 
-## Mô tả
-Website giới thiệu cá nhân dành cho sinh viên IT ứng tuyển vị trí thực tập.
+## 🔗 Live Demo
+https://vanbao04.github.io/portfolio/
 
-## Công nghệ sử dụng
-- HTML
-- CSS
+## 🛠 Technologies
+- HTML5
+- CSS3
+- Git & GitHub
+- GitHub Pages
 
-## Nội dung
-- Giới thiệu bản thân
-- Kỹ năng cơ bản
-- Dự án học tập
-- Thông tin liên hệ
+## 🎯 Purpose
+- Giới thiệu hồ sơ cá nhân
+- Phục vụ ứng tuyển Intern IT / QA Tester
+
+## 📌 Author
+Hán Văn Bảo
